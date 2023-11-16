@@ -1,0 +1,11 @@
+body{
+    background: background-color 1s,color 1s ;
+}
+
+.dark-mode{
+   background-color:cornsilk;
+    color:black
+}
+.h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
